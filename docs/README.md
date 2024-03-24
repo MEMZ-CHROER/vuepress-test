@@ -7,8 +7,8 @@ actions:
     link: /get-started.md
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: 下载区（夸克网盘）
+    link: /tools/
     type: secondary
 
   - text: 附件表
