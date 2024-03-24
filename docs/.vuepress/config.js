@@ -30,6 +30,10 @@ export default defineUserConfig({
         text: 'Timeline',
         link: '/timeline/',
       },
+      {
+        text: 'Github',
+        link: 'https://www.github.com/MEMZ-CHROER/vuepress-test' 
+      },
     ],
   }),
 
