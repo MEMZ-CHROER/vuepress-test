@@ -11,3 +11,5 @@
 ### ● 桌面图标大小异常修复工具V2.09.1 [点击这里](https://pan.quark.cn/s/8897e105e1f6)
 ### ● 指纹功能修复工具V3.94.1 [点击这里](https://pan.quark.cn/s/fef5c9a06c55)
 ### ● 注册表无法打开修复工具V3.76.1 [点击这里](https://pan.quark.cn/s/f49a94c9fb18)
+### ● 主机编号检测工具V1.57.1[点击这里](https://pan.quark.cn/s/deecd22833d4)
+### ● 整数分区计算工具V2.18.1[点击这里](https://pan.quark.cn/s/f17bec8a0bae)
