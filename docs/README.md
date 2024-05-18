@@ -3,8 +3,8 @@ home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Get Started
-    link: /get-started.md
+  - text: 建议投放箱
+    link: /FAQ/
     type: primary
 
   - text: 下载区（夸克网盘）
