@@ -13,13 +13,13 @@
     "vuepress": "vuepress"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.7",
-    "@vuepress/plugin-blog": "^2.0.0-rc.11",
-    "@vuepress/theme-default": "^2.0.0-rc.11",
-    "vue": "^3.4.0",
-    "vuepress": "^2.0.0-rc.7"
+    "@vuepress/bundler-vite": "2.0.0-rc.11",
+    "@vuepress/plugin-blog": "2.0.0-rc.30",
+    "@vuepress/theme-default": "2.0.0-rc.30",
+    "vue": "^3.4.27",
+    "vuepress": "2.0.0-rc.11"
   },
   "dependencies": {
-    "npx": "^3.0.0"
+    "npx": "^10.2.2"
   }
 }
