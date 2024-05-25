@@ -10,7 +10,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:update-package": "npx vp-update",
     "update": "npx vp-update",
-    "vuepress": "vuepress"
+    "vuepress": "vuepress",
+    "dev": "vuepress dev docs"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.11",
