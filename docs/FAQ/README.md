@@ -1,3 +1,7 @@
 # 意见投放箱
 ### 上传txt意见
-<button>上传</button>
+:::details
+:::
+<button>omg</button>
+<upload filename="21-1.cpp" :button="true" />
+:::

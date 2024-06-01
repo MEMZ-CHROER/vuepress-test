@@ -8,6 +8,7 @@ export default defineUserConfig({
 
   title: 'Lxy的博客',
   description: 'Lxy---开发中',
+  head: [['link', { rel: 'icon', href: 'logo.png' }]],
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
