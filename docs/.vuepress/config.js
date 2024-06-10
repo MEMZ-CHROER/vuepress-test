@@ -2,6 +2,8 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { copyrightPlugin } from '@vuepress/plugin-copyright'
+
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -39,6 +41,10 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    copyrightPlugin({
+      author: "lxy",
+      license: "MIT"
+    }),
     blogPlugin({
       // Only files under posts are articles
       filter: ({ filePathRelative }) =>

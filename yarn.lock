@@ -594,6 +594,17 @@
     "@vuepress/utils" "2.0.0-rc.11"
     vue "^3.4.27"
 
+"@vuepress/helper@2.0.0-rc.33":
+  version "2.0.0-rc.33"
+  resolved "https://registry.yarnpkg.com/@vuepress/helper/-/helper-2.0.0-rc.33.tgz#74e8afc298b3727f0e36fbd7051497fdb2c5b47f"
+  integrity sha512-buL7+SgZ+Yz/nD2sA9mi+o5kXAjE+aSOmM77Tx4d2cPeMFy3pFEQ/eYWQmh4SuANBKBpgGEh48kC7dNwtJgUTw==
+  dependencies:
+    "@vue/shared" "^3.4.27"
+    cheerio "1.0.0-rc.12"
+    fflate "^0.8.2"
+    gray-matter "^4.0.3"
+    vue "^3.4.27"
+
 "@vuepress/helper@~2.0.0-rc.30":
   version "2.0.0-rc.30"
   resolved "https://registry.yarnpkg.com/@vuepress/helper/-/helper-2.0.0-rc.30.tgz#203959754d5c420c70fce074426cb484ed3ef938"
@@ -660,6 +671,15 @@
   dependencies:
     "@vuepress/helper" "~2.0.0-rc.30"
     "@vueuse/core" "^10.9.0"
+    vue "^3.4.27"
+
+"@vuepress/plugin-copyright@^2.0.0-rc.33":
+  version "2.0.0-rc.33"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-copyright/-/plugin-copyright-2.0.0-rc.33.tgz#a358bb81301de7dd74b26283aec059b33a2642e2"
+  integrity sha512-OITK38tVYwd5AQzu8ELB22C7JUf2SYHAbumXA9Aq1NhIBW3V+/rq4ctsC2T0VfS07ylqVnuCSSJgIpW1aQY6ww==
+  dependencies:
+    "@vuepress/helper" "2.0.0-rc.33"
+    "@vueuse/core" "^10.10.0"
     vue "^3.4.27"
 
 "@vuepress/plugin-git@~2.0.0-rc.30":
@@ -784,6 +804,16 @@
     picocolors "^1.0.1"
     upath "^2.0.1"
 
+"@vueuse/core@^10.10.0":
+  version "10.10.0"
+  resolved "https://registry.yarnpkg.com/@vueuse/core/-/core-10.10.0.tgz#05a98d3c5674762455a2c552c915d461d83e6490"
+  integrity sha512-vexJ/YXYs2S42B783rI95lMt3GzEwkxzC8Hb0Ndpd8rD+p+Lk/Za4bd797Ym7yq4jXqdSyj3JLChunF/vyYjUw==
+  dependencies:
+    "@types/web-bluetooth" "^0.0.20"
+    "@vueuse/metadata" "10.10.0"
+    "@vueuse/shared" "10.10.0"
+    vue-demi ">=0.14.7"
+
 "@vueuse/core@^10.9.0":
   version "10.9.0"
   resolved "https://registry.yarnpkg.com/@vueuse/core/-/core-10.9.0.tgz#7d779a95cf0189de176fee63cee4ba44b3c85d64"
@@ -804,6 +834,11 @@
     "@vueuse/shared" "9.13.0"
     vue-demi "*"
 
+"@vueuse/metadata@10.10.0":
+  version "10.10.0"
+  resolved "https://registry.yarnpkg.com/@vueuse/metadata/-/metadata-10.10.0.tgz#53e61e9380670e342cbe6e03d852f3319308cb5b"
+  integrity sha512-UNAo2sTCAW5ge6OErPEHb5z7NEAg3XcO9Cj7OK45aZXfLLH1QkexDcZD77HBi5zvEiLOm1An+p/4b5K3Worpug==
+
 "@vueuse/metadata@10.9.0":
   version "10.9.0"
   resolved "https://registry.yarnpkg.com/@vueuse/metadata/-/metadata-10.9.0.tgz#769a1a9db65daac15cf98084cbf7819ed3758620"
@@ -813,6 +848,13 @@
   version "9.13.0"
   resolved "https://registry.yarnpkg.com/@vueuse/metadata/-/metadata-9.13.0.tgz#bc25a6cdad1b1a93c36ce30191124da6520539ff"
   integrity sha512-gdU7TKNAUVlXXLbaF+ZCfte8BjRJQWPCa2J55+7/h+yDtzw3vOoGQDRXzI6pyKyo6bXFT5/QoPE4hAknExjRLQ==
+
+"@vueuse/shared@10.10.0":
+  version "10.10.0"
+  resolved "https://registry.yarnpkg.com/@vueuse/shared/-/shared-10.10.0.tgz#93f7c2210151ff43c2c7677963f7aa3aef5d9896"
+  integrity sha512-2aW33Ac0Uk0U+9yo3Ypg9s5KcR42cuehRWl7vnUHadQyFvCktseyxxEPBi1Eiq4D2yBGACOnqLZpx1eMc7g5Og==
+  dependencies:
+    vue-demi ">=0.14.7"
 
 "@vueuse/shared@10.9.0":
   version "10.9.0"
