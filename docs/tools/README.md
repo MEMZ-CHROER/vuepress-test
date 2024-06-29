@@ -1,3 +1,10 @@
+---
+tag:
+    - tag A
+category:
+  - CategoryA
+  - CategoryB
+---
 
 # 下载链接
 ### ● .NET安装卸载V3.43.1 [点击这里](https://pan.quark.cn/s/661a773e5f15)
@@ -13,3 +20,4 @@
 ### ● 注册表无法打开修复工具V3.76.1 [点击这里](https://pan.quark.cn/s/f49a94c9fb18)
 ### ● 主机编号检测工具V1.57.1[点击这里](https://pan.quark.cn/s/deecd22833d4)
 ### ● 整数分区计算工具V2.18.1[点击这里](https://pan.quark.cn/s/f17bec8a0bae)
+### ● 
