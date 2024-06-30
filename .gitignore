@@ -116,6 +116,9 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+#push code
+push.bat
+
 # TernJS port file
 .tern-port
 
