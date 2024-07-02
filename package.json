@@ -10,6 +10,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:update-package": "npx vp-update",
     "update": "npx vp-update",
+    "fetch": "git fetch",
     "vuepress": "vuepress",
     "dev": "vuepress dev docs",
     "start": "echo 请使用 yarn dev 来本地开发"
