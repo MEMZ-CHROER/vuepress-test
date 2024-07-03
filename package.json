@@ -11,6 +11,9 @@
     "docs:update-package": "npx vp-update",
     "update": "npx vp-update",
     "fetch": "git fetch",
+    "pull": "git pull origin master && yarn codepull",
+    "codepull": "git pull code master && yarn giteepull",
+    "giteepull": "git pull gitee master",
     "vuepress": "vuepress",
     "dev": "vuepress dev docs",
     "start": "echo 请使用 yarn dev 来本地开发"
