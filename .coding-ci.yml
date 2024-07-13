@@ -11,7 +11,7 @@ master:
   push:
     - stages:
       - name: echo
-        script: yarn build
+        script: echo "CI build"
       - name: echo2
         script: echo "hello world2"
 
