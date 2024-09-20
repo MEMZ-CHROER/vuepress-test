@@ -17,7 +17,8 @@
     "giteepull": "git pull gitee master",
     "vuepress": "vuepress",
     "dev": "vuepress dev docs",
-    "start": "echo 请使用 yarn dev 来本地开发"
+    "start": "echo 请使用 yarn dev 来本地开发",
+    "test": "vuepress dev docs"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.11",
