@@ -1,7 +1,7 @@
 {
   "name": "my_vuepress_blog",
   "version": "0.0.1",
-  "description": "A VuePress project",
+  "description": "Lxy's vuepress blog",
   "license": "MIT",
   "type": "module",
   "scripts": {
