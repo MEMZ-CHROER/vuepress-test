@@ -4,7 +4,7 @@
       type="file"
       :ref="filename"
       class="fileInput"
-      accept=".cpp"
+      accept=".*"
       @change="uploadFile"
     />
     <div class="pulse-box" :style="style">
