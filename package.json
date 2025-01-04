@@ -18,7 +18,8 @@
     "vuepress": "vuepress",
     "dev": "vuepress dev docs",
     "start": "echo 请使用 yarn dev 来本地开发",
-    "test": "vuepress dev docs"
+    "test": "vuepress dev docs",
+    "cross-env": "cross-env"
   },
   "devDependencies": {
     "@docsearch/js": "^3.8.2",
@@ -35,6 +36,7 @@
     "moment": "^2.30.1",
     "multer": "^1.4.5-lts.1",
     "node-fetch": "^3.3.2",
+    "update-browserslist-db": "^1.1.1",
     "vue": "^3.4.27",
     "vuepress": "2.0.0-rc.11"
   },
