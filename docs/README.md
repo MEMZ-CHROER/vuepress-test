@@ -3,8 +3,8 @@ home: true
 title: 主页面
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: 建议投放箱
-    link: /FAQ/
+  - text: 讲义
+    link: https://notes.liuxiyu.dpdns.org
     type: primary
 
   - text: 下载区（夸克网盘）
