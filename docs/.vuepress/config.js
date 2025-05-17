@@ -18,12 +18,12 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
-        link: '/article/',
+        text: '附件表',
+        link: '/fujian/',
       },
       {
-        text: 'Category',
-        link: '/category/',
+        text: '文件下载',
+        link: '/tools/',
       },
       {
         text: 'Tag',
