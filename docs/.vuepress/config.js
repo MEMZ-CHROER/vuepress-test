@@ -8,7 +8,7 @@ import { copyrightPlugin } from '@vuepress/plugin-copyright'
 export default defineUserConfig({
   lang: 'zh-CN',
 
-  title: 'Lxy的博客 Powered by VuePress@2.0.0-rc.13',
+  title: 'Lxy的博客 Powered by VuePress@2.0.0-rc.12',
   description: 'Lxy---开发中',
   head: [['link', { rel: 'icon', href: 'logo.png' }]],
 
