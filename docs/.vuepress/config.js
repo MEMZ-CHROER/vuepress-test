@@ -26,8 +26,8 @@ export default defineUserConfig({
         link: '/tools/',
       },
       {
-        text: 'Tag',
-        link: '/tag/',
+        text: '核巨啸的坦克们',
+        link: '/tanks/',
       },
       {
         text: 'Timeline',

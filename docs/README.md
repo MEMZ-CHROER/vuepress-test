@@ -11,8 +11,8 @@ actions:
     link: /tools/
     type: secondary
 
-  - text: 附件表
-    link: /fujian/
+  - text: 核巨啸的坦克们
+    link: /tanks/
     type: thirdary 
 
 features:
