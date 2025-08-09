@@ -1,7 +1,7 @@
 ---
 home: true
 title: 主页面
-heroImage: "https://z.wiki/u/qW6jS3"
+heroImage: "https://z.wiki/u/TI9MI0"
 
 heroText: Lxy和核巨啸的坦克网站
 
