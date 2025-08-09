@@ -1,10 +1,15 @@
 ---
 home: true
 title: 主页面
-heroImage: https://vuejs.press/images/hero.png
+heroImage: "https://z.wiki/u/qW6jS3"
+
+heroText: Lxy和核巨啸的坦克网站
+
+
+tagline: 一个关于坦克的网站
 actions:
   - text: 讲义
-    link: https://notes.liuxiyu.dpdns.org
+    link: "https://notes.liuxiyu.dpdns.org"
     type: primary
 
   - text: 下载区（夸克网盘）

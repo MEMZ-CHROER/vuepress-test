@@ -10,10 +10,12 @@ export default defineUserConfig({
 
   title: 'Lxy的博客',
   description: 'Lxy Powered by VuePress@2.0.0-rc.11',
-  head: [['link', { rel: 'icon', href: 'logo.png' }]],
+  head: [['link', { rel: 'icon', href: 'https://z.wiki/u/qW6jS3' }]],
+
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://z.wiki/u/qW6jS3',
+
 
     navbar: [
       '/',

@@ -20,7 +20,7 @@
     "start": "echo 请使用 yarn dev 来本地开发",
     "test": "vuepress dev docs",
     "cross-env": "cross-env",
-    "vercel":"vercel --prod"
+    "vercel": "vercel --prod"
   },
   "devDependencies": {
     "@docsearch/js": "^3.9.0",
@@ -45,6 +45,7 @@
     "vite": "^6.3.5",
     "vue": "^3.5.14",
     "vuepress": "2.0.0-rc.11",
+    "vuepress-plugin-medium-zoom": "^1.1.9",
     "wrappy": "^1.0.2"
   },
   "dependencies": {
