@@ -10,8 +10,8 @@ actions:
   - text: 核巨啸的坦克们
     link: /tanks/
     type: primary
-  - text: 坦克下载区
-    link: /tanksDownloads/
+  - text: 附件下载区
+    link: /tools/
     type: secondary
 
   - text: 核巨啸的坦克们
