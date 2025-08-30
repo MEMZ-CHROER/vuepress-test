@@ -14,8 +14,8 @@ actions:
     link: /tools/
     type: secondary
 
-  - text: 核巨啸的坦克们
-    link: /tanks/
+  - text: Lxy的附件表
+    link: /fujian/
     type: thirdary 
 
 features:
