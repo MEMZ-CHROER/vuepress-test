@@ -1778,6 +1778,11 @@ async-validator@^4.2.5:
   resolved "https://registry.yarnpkg.com/async-validator/-/async-validator-4.2.5.tgz#c96ea3332a521699d0afaaceed510a54656c6339"
   integrity sha512-7HhHjtERjqlNbZtqNqy2rckN/SpOOlmDliet+lP7k+eKZEjPk3DgyeU9lIXLdeLz0uBbbVp+9Qdow9wJWgwwfg==
 
+async@^3.2.0:
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.6.tgz#1b0728e14929d51b85b449b7f06e27c1145e38ce"
+  integrity sha512-htCUDlxyyCLMgaM3xXg0C0LW2xqfuQ6p05pCEIsXuyQ+a1koYKTuBMzRNwmybfLgvJDMd0r1LTn4+E0Ti6C2AA==
+
 asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
@@ -2428,6 +2433,11 @@ core-util-is@^1.0.2, core-util-is@~1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.3.tgz#a6042d3634c2b27e9328f837b965fac83808db85"
   integrity sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==
+
+cpu@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cpu/-/cpu-1.0.1.tgz#41d9a356bd54fe43146a15167fc1e7c565f09e2e"
+  integrity sha512-rH+yxoww5PcaFSbNGXrBy+yVMJtLCo9WuGXdhNaNA8fQXneIUTOT58vH73B2VqMAfmezLDXwqMTgIMJ2NN/7ww==
 
 create-error-class@^3.0.0:
   version "3.0.2"
@@ -3951,6 +3961,13 @@ iconv-lite@0.6.3, iconv-lite@^0.6.2, iconv-lite@^0.6.3:
   integrity sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==
   dependencies:
     safer-buffer ">= 2.1.2 < 3.0.0"
+
+iconv-lite@^0.5.0:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.5.2.tgz#af6d628dccfb463b7364d97f715e4b74b8c8c2b8"
+  integrity sha512-kERHXvpSaB4aU3eANwidg79K8FlrN77m8G9V+0vOR3HYaRifrlwMEpT7ZBJqLSEIHnEgJTHcWK82wwLwwKwtag==
+  dependencies:
+    safer-buffer ">= 2.1.2 < 3"
 
 iferr@^0.1.5, iferr@~0.1.5:
   version "0.1.5"
@@ -7627,6 +7644,14 @@ win-release@^1.0.0:
   integrity sha512-iCRnKVvGxOQdsKhcQId2PXV1vV3J/sDPXKA4Oe9+Eti2nb2ESEsYHRYls/UjoUW3bIc5ZDO8dTH50A/5iVN+bw==
   dependencies:
     semver "^5.0.1"
+
+wmic@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/wmic/-/wmic-1.1.1.tgz#e77f8ddea85f23fa77514e3d8e9de9c302447bf3"
+  integrity sha512-6lbonssALks49dX9bJTE8i54OTjbbLfd3IraFfG1ZR1ZrEbEynCt471IX5SfslZaFwISJKdUFHjOWHk0Brs5eg==
+  dependencies:
+    async "^3.2.0"
+    iconv-lite "^0.5.0"
 
 worker-farm@~1.3.1:
   version "1.3.1"
