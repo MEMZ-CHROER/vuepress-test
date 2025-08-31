@@ -48,7 +48,8 @@
     "vue": "^3.5.20",
     "vuepress": "2.0.0-rc.24",
     "vuepress-plugin-medium-zoom": "1.1.9",
-    "wrappy": "^1.0.2"
+    "wrappy": "^1.0.2",
+    "yarn": "^1.22.22"
   },
   "dependencies": {
     "@vuepress/plugin-copyright": "2.0.0-rc.112",
