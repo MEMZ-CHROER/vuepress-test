@@ -1,11 +1,11 @@
 ---
 home: true
 title: 主页面
-heroImage: "https://z.wiki/u/TI9MI0"
+heroImage: ""
 heroText: Lxy和核巨啸的坦克网站
 tagline: 一个关于手绘坦克的网站
 
-
+# https://z.wiki/u/TI9MI0
 actions:
   - text: 核巨啸的坦克们
     link: /tanks/
@@ -13,9 +13,8 @@ actions:
   - text: 附件下载区
     link: /tools/
     type: secondary
-
-  - text: Lxy的附件表
-    link: /fujian/
+  - text: 种花
+    link: /planting/
     type: thirdary 
 
 features:
@@ -25,9 +24,9 @@ features:
     details: 这是一个关于核巨啸的坦克们的展示区
   - title: 下载区（夸克网盘）
     details: 这是一个关于Lxy的电脑小工具的下载区
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: MIT Licensed | Copyright (c) 2024 (Github)MEMZ-CHROER，LiuXiYu，核巨啸 
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+This is the content of home page. Check [LICENSE][Lxy_MIT_License] for more details.
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+[Lxy_MIT_License]: ./LICENCE
