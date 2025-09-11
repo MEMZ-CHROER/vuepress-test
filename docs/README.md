@@ -13,13 +13,13 @@ actions:
   - text: 附件下载区
     link: /tools/
     type: secondary
-  - text: 种花
+  - text: 种花（劳技课展示）
     link: /planting/
     type: thirdary 
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+  - title: 种花（劳技课展示）
+    details: 奶茶杯再次利用，水培和土培枇杷核养成的幼苗  
   - title: 核巨啸的坦克和飞机们
     details: 这是一个关于核巨啸的坦克们的展示区
   - title: 下载区（夸克网盘）
