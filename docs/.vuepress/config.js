@@ -32,8 +32,8 @@ export default defineUserConfig({
         link: '/tanks/',
       },
       {
-        text: 'Timeline',
-        link: '/timeline/',
+        text: '种花（劳技课展示）',
+        link: '/planting/',
       },
       {
         text: 'Github',
