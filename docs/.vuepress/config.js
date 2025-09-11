@@ -9,7 +9,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
 
   title: 'Lxy的博客',
-  description: 'Lxy Powered by VuePress@2.0.0-rc.11',
+  description: 'Lxy Powered by VuePress@2.0.0-rc.25',
   head: [['link', { rel: 'icon', href: 'https://z.wiki/u/MMPFZO' }]],
 
 
