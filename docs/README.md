@@ -10,9 +10,12 @@ actions:
   - text: 核巨啸的坦克们
     link: /tanks/
     type: primary
+  - text: 信息课展示AI
+    link: /InformationAI/
+    type: secondary
   - text: 附件下载区
     link: /tools/
-    type: secondary
+    type: thirdary
   - text: 种花（劳技课展示）
     link: /planting/
     type: thirdary 
@@ -29,4 +32,4 @@ footer: MIT Licensed | Copyright (c) 2024 (Github)MEMZ-CHROER，LiuXiYu，核巨
 
 This is the content of home page. Check [LICENSE][Lxy_MIT_License] for more details.
 
-[Lxy_MIT_License]: ./LICENCE
+[Lxy_MIT_License]: ./LICENSE/LICENSE

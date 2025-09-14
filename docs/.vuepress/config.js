@@ -24,8 +24,8 @@ export default defineUserConfig({
         link: '/fujian/',
       },
       {
-        text: '文件下载',
-        link: '/tools/',
+        text: '信息AI',
+        link: '/InformationAI/',
       },
       {
         text: '核巨啸的坦克们',
