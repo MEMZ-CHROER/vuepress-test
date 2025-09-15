@@ -29,7 +29,7 @@ features:
     details: 这是一个关于Lxy的电脑小工具的下载区
 footer: MIT Licensed | Copyright (c) 2024 (Github)MEMZ-CHROER，LiuXiYu，核巨啸 
 ---
-
+:taiwan:
 This is the content of home page. Check [LICENSE][Lxy_MIT_License] for more details.
 
 [Lxy_MIT_License]: ./LICENSE/LICENSE

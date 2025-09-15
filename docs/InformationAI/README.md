@@ -71,7 +71,7 @@
 ### 3.4 人工智能将带来更多的机会和挑战，需要我们共同努力解决。
 
 ## 参考资料
-### 1. [百度百科-人工智能](https://baike.baidu.com/item/人工智能/16802)
+### 1. [百度百科-人工智能](https://baike.baidu.com/item/人工智能/9180)
 ### 2. [维基百科-人工智能](https://zh.wikipedia.org/wiki/人工智能)
 ### 3. [中国科学院计算技术研究所-人工智能](https://www.cstip.cn/ai.html)
 ### 4. [清华大学-人工智能](https://www.tsinghua.edu.cn/ai/)
