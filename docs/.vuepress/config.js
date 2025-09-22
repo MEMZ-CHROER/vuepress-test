@@ -24,6 +24,10 @@ export default defineUserConfig({
         link: '/fujian/',
       },
       {
+        text: '工具下载区',
+        link: '/tools/',
+      },
+      {
         text: '信息AI',
         link: '/InformationAI/',
       },

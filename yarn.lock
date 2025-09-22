@@ -4212,6 +4212,11 @@ hash-sum@^2.0.0:
   resolved "https://registry.yarnpkg.com/hash-sum/-/hash-sum-2.0.0.tgz#81d01bb5de8ea4a214ad5d6ead1b523460b0b45a"
   integrity sha512-WdZTbAByD+pHfl/g9QSsBIIwy8IT+EsPiKDs0KNX+zSHhdDLFKdZu0BQHljvO+0QI/BasbMSUa8wYNCZTvhslg==
 
+hash@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/hash/-/hash-0.2.1.tgz#a719d789397c5637f02043c0c180f431fdf9a6ec"
+  integrity sha512-yUBu1BNORmIBcz6XsuSIs0mUCnYTb3rsgEWE87d7giQYUCxqtxiVRkokV9mXH3xBKVfPqML+21ruSOQinnTqtg==
+
 hasown@^2.0.0, hasown@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/hasown/-/hasown-2.0.2.tgz#003eaf91be7adc372e84ec59dc37252cedb80003"
@@ -5260,7 +5265,7 @@ math-intrinsics@^1.1.0:
 
 md5@^2.3.0:
   version "2.3.0"
-  resolved "https://registry.npmmirror.com/md5/-/md5-2.3.0.tgz#c3da9a6aae3a30b46b7b0c349b87b110dc3bda4f"
+  resolved "https://registry.yarnpkg.com/md5/-/md5-2.3.0.tgz#c3da9a6aae3a30b46b7b0c349b87b110dc3bda4f"
   integrity sha512-T1GITYmFaKuO91vxyoQMFETst+O71VUPEU3ze5GNzDm0OWdP8v1ziTaAEPUr/3kLsY3Sftgz242A1SetQiDL7g==
   dependencies:
     charenc "0.0.2"
@@ -8810,10 +8815,10 @@ yargs@^11.0.0:
     y18n "^3.2.1"
     yargs-parser "^9.0.2"
 
-yarn@^2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-2.4.3.tgz#f6f3ca06dd47eb47db34a80bd461fc936db31f04"
-  integrity sha512-HQ8VJL8v1Tlq+VVzcohmYw7dHtZ6VUB4/b2oHRGQc6Xv00AQjVk4C6cyqu4iHRI4esfgIi8S9doOm1d3Z3MlPA==
+yarn@^1.22.22:
+  version "1.22.22"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.22.tgz#ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+  integrity sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg==
 
 zwitch@^2.0.4:
   version "2.0.4"

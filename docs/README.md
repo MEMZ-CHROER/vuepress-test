@@ -32,4 +32,4 @@ footer: MIT Licensed | Copyright (c) 2024 (Github)MEMZ-CHROER，LiuXiYu，核巨
 :taiwan:
 This is the content of home page. Check [LICENSE][Lxy_MIT_License] for more details.
 
-[Lxy_MIT_License]: ./LICENSE/LICENSE
+[Lxy_MIT_License]: ./LICENSE
