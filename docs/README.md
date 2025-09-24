@@ -10,8 +10,11 @@ actions:
   - text: 核巨啸的坦克们
     link: /tanks/
     type: primary
-  - text: 信息课展示AI
-    link: /InformationAI/
+  - text: AI--简介
+    link: /InformationAI/Introduction/
+    type: secondary
+  - text: 信息课展示神经网络
+    link: /InformationAI/NeuralNetwork/
     type: secondary
   - text: 附件下载区
     link: /tools/
@@ -29,7 +32,7 @@ features:
     details: 这是一个关于Lxy的电脑小工具的下载区
 footer: MIT Licensed | Copyright (c) 2024 (Github)MEMZ-CHROER，LiuXiYu，核巨啸 
 ---
-:taiwan:
-This is the content of home page. Check [LICENSE][Lxy_MIT_License] for more details.
 
-[Lxy_MIT_License]: ./LICENSE
+若要查看许可协议，请点击[LICENSE][Lxy_MIT_License]查看协议
+
+[Lxy_MIT_License]: ./LICENSE/README.md

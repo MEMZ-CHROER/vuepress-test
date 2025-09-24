@@ -28,8 +28,12 @@ export default defineUserConfig({
         link: '/tools/',
       },
       {
-        text: '信息AI',
-        link: '/InformationAI/',
+        text: '信息AI--简介',
+        link: '/InformationAI/Introduction/',
+      },
+      {
+        text: '信息AI--神经网络',
+        link: '/InformationAI/NeuralNetwork/',
       },
       {
         text: '核巨啸的坦克们',
